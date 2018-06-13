@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ltcl
+Comment=ltcl P2P Cryptocurrency
+Comment[fr]=ltcl, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ltcl, eşten eşe kriptografik sanal para birimi
+Exec=ltcl-qt %u
+Terminal=false
+Type=Application
+Icon=ltcl128
+MimeType=x-scheme-handler/ltcl;
+Categories=Office;Finance;

@@ -1,0 +1,11 @@
+[Protocol]
+exec=ltcl-qt '%u'
+protocol=ltcl
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

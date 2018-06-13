@@ -1,0 +1,26 @@
+# /etc/conf.d/ltcld: config file for /etc/init.d/ltcld
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/ltcl/ltcl.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/ltcld"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/ltcld.pid"
+
+# Where to write ltcld data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/ltcld"
+
+# User and group to own ltcld process
+#BITCOIND_USER="ltcl"
+#BITCOIND_GROUP="ltcl"
+
+# Path to ltcld executable
+#BITCOIND_BIN="/usr/bin/ltcld"
+
+# Nice value to run ltcld under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
