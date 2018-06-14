@@ -1,7 +1,7 @@
 <a href="http://es.tinypic.com?ref=116l8bq" target="_blank"><img src="http://i68.tinypic.com/116l8bq.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
 
-<center>LiteCloud Core</center> 
+LiteCloud Core
 =====================================
 
 litecloud is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
