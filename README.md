@@ -9,7 +9,7 @@ litecloud is a cutting edge cryptocurrency, with many features not available in 
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _FastSend_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
   technology used to secure the network and provide the above features, each Masternode is secured
-  with collateral of 2000 LiteCloud
+  with collateral of 10000 LiteCloud
 
 More information at [Litecloudproject.com](http://Litecloudproject.com)
 
@@ -34,7 +34,7 @@ More information at [Litecloudproject.com](http://Litecloudproject.com)
 
 ### Staking Methods
 <table>
-<tr><td>Masternodes</td><td>Yes - 2000 ltcl Required</td></tr>
+<tr><td>Masternodes</td><td>Yes -10000 ltcl Required</td></tr>
 <tr><td>Wallet Staking</td><td>Yes - 1 to infinite ltcl</td></tr>
 </table>
 
